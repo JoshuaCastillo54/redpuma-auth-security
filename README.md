@@ -45,7 +45,7 @@ Proyecto desarrollado para la Dirección General del Deporte Universitario (DGDU
 
 | Módulo de Registro y Formularios | Pantalla de Acceso y CAPTCHA |
 | :---: | :---: |
-| ![Formularios Dinámicos](screenshots/registro.png) | ![Login con CAPTCHA](screenshots/login.png) |
+| ![Formularios Dinámicos](screenshots/Screenshot-Listas.jpeg) | ![Login con CAPTCHA](screenshots/login.png) |
 
 ---
 
